@@ -1,0 +1,28 @@
+.container {
+  width: 555px;
+  margin: 25px auto;
+  font-family: 'Source Sans Pro', sans-serif;
+  text-align: center;
+  border: 2px solid #bbb;
+  border-radius: 2px;
+}
+
+.actions {
+  margin: 0 0 10px 0;
+  font-size: 16px;
+  display: inline-block;
+}
+
+button {
+  background-color: white;
+  border: 1px solid #7fb9e0;
+  padding: 5px 10px;
+  cursor: pointer;
+  width: 80px;
+  font-size: 14px;
+}
+
+.selected {
+  color: #fff;
+  background-color:#7fb9e0;
+}
