@@ -1,6 +1,7 @@
 #Building a Chart Component with Angular 2 and FusionCharts
 
 Code demonstrating how to create a simple chart component in Angular 2 using the FusionCharts library and plain JavaScript. 
+
 Article URL: https://www.sitepoint.com/chart-component-angular2-fusioncharts
 
 ## Requirements
